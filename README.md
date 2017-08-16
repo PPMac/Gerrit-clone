@@ -49,3 +49,10 @@ centos下配置git ssh
 粘贴复制的id_rsa.pub的内容,点击add
 
 ![image](https://github.com/PPMac/test/blob/master/4.png)
+
+# 获取代码库
+
+在本地运行git将代码clone到本地
+
+        $ git clone ssh://yourname@youremail192.168.XXXXXXXXXX
+        
