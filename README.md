@@ -31,6 +31,8 @@ centos下配置git ssh
         
 可以看到目录生成了id_rsa  id_rsa.pub两个文件
 
+![image](https://github.com/PPMac/test/blob/master/1.png)
+
 查看并复制id_rsa.pub的内容
 
         $ cat id_rsa.pub
