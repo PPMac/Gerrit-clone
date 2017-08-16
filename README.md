@@ -36,7 +36,16 @@ centos下配置git ssh
 查看并复制id_rsa.pub的内容
 
         $ cat id_rsa.pub
-    
+   
+![image](https://github.com/PPMac/test/blob/master/2.png)
 # Gerrit用户添加ssh
 
+进入自己的Gerrit
 
+按下图的点击顺序找到添加公共SSH的地方
+
+![image](https://github.com/PPMac/test/blob/master/3.png)
+
+粘贴复制的id_rsa.pub的内容,点击add
+
+![image](https://github.com/PPMac/test/blob/master/4.png)
