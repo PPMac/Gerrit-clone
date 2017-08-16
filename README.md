@@ -35,4 +35,6 @@ centos下配置git ssh
 
         $ cat id_rsa.pub
     
+# Gerrit用户添加ssh
+
 
