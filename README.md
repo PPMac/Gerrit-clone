@@ -27,10 +27,12 @@ centos下配置git ssh
 
 进入ssh目录
 
-                $ cd ~/.ssh
+        $ cd ~/.ssh
+        
 可以看到目录生成了id_rsa  id_rsa.pub两个文件
 
 查看并复制id_rsa.pub的内容
-                $ cat id_rsa.pub
+
+        $ cat id_rsa.pub
     
 
