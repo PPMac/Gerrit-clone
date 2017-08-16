@@ -54,5 +54,5 @@ centos下配置git ssh
 
 在本地运行git将代码clone到本地
 
-        $ git clone ssh://yourname@youremail192.168.XXXXXXXXXX
+        $ git clone ssh://yourname@youremail192.168.XXXXXXXXXX
         
