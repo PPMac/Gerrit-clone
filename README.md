@@ -18,3 +18,19 @@ centos下配置git ssh
 运行上面命令后,连续按3个回车(如果不需要密码的话)。
 
 最后得到了两个文件：id_rsa和id_rsa.pub。
+
+## 3、添加密钥到ssh-agent
+
+添加生成的 SSH key 到 ssh-agent。
+
+        $ ssh-add ~/.ssh/id_rsa
+
+进入ssh目录
+
+                $ cd ~/.ssh
+可以看到目录生成了id_rsa  id_rsa.pub两个文件
+
+查看并复制id_rsa.pub的内容
+                $ cat id_rsa.pub
+    
+
