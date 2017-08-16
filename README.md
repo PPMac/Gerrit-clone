@@ -1,3 +1,6 @@
 centos下配置git ssh
 ====================================
-test how to use markdown text
+#拿到root权限
+su root
+输入password
+
