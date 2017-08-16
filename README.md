@@ -1,7 +1,7 @@
 centos下配置git ssh
 ====================================
 # 拿到root权限
-        su root
+        $ su root
 *输入password*
 
 *获得root权限后,以下的$符号变成#符号*
