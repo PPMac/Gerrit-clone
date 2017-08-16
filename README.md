@@ -2,11 +2,12 @@ centos下配置git ssh
 ====================================
 # 拿到root权限
         $ su root
+        
 *输入password*
 
 *获得root权限后,以下的$符号变成#符号*
 # 安装git
-        yum install git
+        $ yum install git
 # git-ssh 配置和使用
 ## 1、设置Git的user name和email：(如果是第一次的话)
         $ git config --global user.name "humingx"
