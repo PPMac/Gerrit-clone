@@ -58,3 +58,4 @@ cd到存放clone代码的目录
 
         $ git clone ssh://yourname@youremail192.168.XXXXXXXXXX
         
+参考:https://segmentfault.com/a/1190000002645623
